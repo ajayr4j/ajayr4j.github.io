@@ -34,7 +34,7 @@ AWS with it's mammoth of resources, deployed Anycast setup in almost all the geo
 # Interesting Points to note
 
 - A Global Accelerator can proxy n number of endpoint groups, each group associated to an AWS Region, where the requests are sent based on the geography. For example, If an user makes a request from India and we have an Endpoint at ap-south-1(Mumbai, India), then this endpoint will be called.
-- You can test the service in realtime by sending packet size of your choice and see the results from here: https://speedtest.globalaccelerator.aws/#/
+- You can test the service in realtime by sending packet size of your choice and see the results from here: [AWS Global Accelerator Speed Test](https://speedtest.globalaccelerator.aws/#/)
 
 
 Thanks for reading and please provide your comments below
