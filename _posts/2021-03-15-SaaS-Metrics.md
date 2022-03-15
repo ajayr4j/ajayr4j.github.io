@@ -3,6 +3,8 @@ layout: post
 title: SaaS Metrics to look in a Startup/Company
 ---
 
+# Saas
+
 A company can become successfull only if many factors align like people, culture, product, customer success, sales, etc., unless some company shoots up due to some magical USP. But, For an investor or someone who is evaluating company all the above factors are kindof intangible for them. So, I'm adding here all the metrics an investor/evaluator will look at. **Metrics** is something that will bring out the truth about any company, afterall math won't let you down. If you're looking to join, invest or buy a company this would definitely come in handy. All the informations is gathered from Medium, Youtube, etc.,
 
 # Some Abbrevations:
