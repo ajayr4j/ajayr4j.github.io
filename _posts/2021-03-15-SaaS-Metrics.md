@@ -9,20 +9,18 @@ A company can become successfull only if many factors align like people, culture
 
 # Some Abbrevations:
 
-| Short | Expansion                                           |
-|-------|-----------------------------------------------------|
-| LTV   | Customer Lifetime Value                             |
-| Churn | Move out of the company(Dollar, Customer, Employee) |
-| CV    | Customer value                                      |
-| ACL   | Average customer lifespan                           |
-| APF   | Average purchase frequency                          |
-| APV   | Average purchase value                              |
-| CRO   | Conversion rate optimization                        |
-| ARR   | Annual Recurring Revenue                            |
-| CAC   | Cusomter acquisition cost                           |
+| LTV - Customer Lifetime Value                             |
+| Churn - Move out of the company(Dollar, Customer, Employee) |
+| CV - Customer value                                      |
+| ACL - Average customer lifespan                           |
+| APF - Average purchase frequency                          |
+| APV - Average purchase value                              |
+| CRO - Conversion rate optimization                        |
+| ARR - Annual Recurring Revenue                            |
+| CAC - Cusomter acquisition cost                           |
 {:.table-striped}
 
-# Some Formulae :bear:
+# Some Formulae
 
 - CAC = Total marketing and sales expenses($) / Total number of new customers acquired
   - Expenses that are covered for marketing and sales: Ad Spend, Employee Salaries, Creative Costs, Technical Costs, Publishing Costs, Production Costs and Maintaiing Inventory
@@ -35,7 +33,7 @@ A company can become successfull only if many factors align like people, culture
 
 *Ideally all the above calculations are made for the course of a year*
 
-# Some Pattern :chart_with_upwards_trend:
+# Some Pattern
 
 All the below points are analysed over the period of 20 years, designed as a guess or method to make a conclusive statement about the company's health. So, there are always very niche market that won't fit in this. But, this should fit for the most case. Some cases that are below won't work for seed stage startups, but it's good to make these comparisions in a timeseries graph than making these calculations from a single point of time to see the trajectory more clearly.
 
