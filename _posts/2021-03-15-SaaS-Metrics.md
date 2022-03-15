@@ -10,7 +10,7 @@ A company can become successfull only if many factors align like people, culture
 # Some Abbrevations:
 
 | Short | Expansion |
-| ----------- | ----------- |
+| :----: | :----: |
 | LTV | Customer Lifetime Value |
 | Churn | Move out of the company(Dollar, Customer, Employee) |
 | CV | Customer value |
