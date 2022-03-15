@@ -3,7 +3,7 @@ layout: post
 title: How SaaS companies can serve their global clients faster by 60% using AWS Global Accelerator Service 
 ---
 
-Hi Everyone,
+Tech
 
 We are in a place where speed of the web services is no longer a want but a need! So, I thought to write my first tech blog about the same as I learned about the service in detail very recently.
 
