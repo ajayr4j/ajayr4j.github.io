@@ -9,15 +9,15 @@ A company can become successfull only if many factors align like people, culture
 
 # Some Abbrevations:
 
-| LTV - Customer Lifetime Value                             |
+| LTV   - Customer Lifetime Value                             |
 | Churn - Move out of the company(Dollar, Customer, Employee) |
-| CV - Customer value                                      |
-| ACL - Average customer lifespan                           |
-| APF - Average purchase frequency                          |
-| APV - Average purchase value                              |
-| CRO - Conversion rate optimization                        |
-| ARR - Annual Recurring Revenue                            |
-| CAC - Cusomter acquisition cost                           |
+| CV    - Customer value                                      |
+| ACL   - Average customer lifespan                           |
+| APF   - Average purchase frequency                          |
+| APV   - Average purchase value                              |
+| CRO   - Conversion rate optimization                        |
+| ARR   - Annual Recurring Revenue                            |
+| CAC   - Cusomter acquisition cost                           |
 {:.table-striped}
 
 # Some Formulae
