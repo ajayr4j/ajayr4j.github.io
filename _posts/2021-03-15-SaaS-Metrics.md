@@ -20,7 +20,7 @@ A company can become successfull only if many factors align like people, culture
 | CRO   | Conversion rate optimization                        |
 | ARR   | Annual Recurring Revenue                            |
 | CAC   | Cusomter acquisition cost                           |
-
+{:.table-striped}
 
 # Some Formulae :bear:
 
