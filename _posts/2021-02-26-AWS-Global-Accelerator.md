@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How SaaS companies can serve their global clients faster by 60% using AWS Global Accelerator Service 
+title: How Companies can serve their global clients faster by 60% using AWS Global Accelerator Service 
 ---
 
 Tech
