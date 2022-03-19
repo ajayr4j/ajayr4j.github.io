@@ -5,7 +5,7 @@ title: SaaS Metrics to look in a Startup/Company
 
 SaaS
 
-A company can become successfull only if many factors align like people, culture, product, customer success, sales, etc., unless some company shoots up due to some magical USP. But, For an investor or someone who is evaluating company all the above factors are kindof intangible for them. So, I'm adding here all the metrics an investor/evaluator will look at. **Metrics** is something that will bring out the truth about any company, afterall math won't let you down. If you're looking to join, invest or buy a company this would definitely come in handy. All the informations is gathered from Medium, Youtube, SaaS articles etc.,
+A company can become successfull only if many factors align like people, culture, product, customer success, sales, etc., unless some company shoots up due to some magical USP. But, For an investor or someone who is evaluating company all the above factors are intangible. So, I'm adding here all the metrics an investor/evaluator will look at and the usual **P&L and Balance sheet evaluation** give you a clear idea of a Saas company(why?, find the reason [here](https://hbr.org/2018/02/why-financial-statements-dont-work-for-digital-companies)) **Metrics** is something that will bring out the truth about any company, afterall math won't lie(If all the data from the company are intact!). If you're looking to join, invest or buy a company this would definitely come in handy. All the informations is gathered from Medium, Youtube, SaaS articles etc.,
 
 # Some Abbrevations:
 
@@ -43,10 +43,10 @@ All the below points are analysed over the period of 20 years, designed as a gue
 - LTV > 3 X CAC 
 - Months to recover the spent CAC < 12-18 months(Important for Capital Efficiency)
 - With the LTV:CAC draw a comparison between the VAR and VSB segment, which ever has a better ratio invest sales force towards that
-- Churn rate per month should be less than 20%
+- Customer/Dollar Churn rate per month should be less than 20%
 - Customer Success:
   - Negative Churn = Revenue from existing customers > Revenue lost from churning customers
-  - Analyise customer feedback, tickets related to them 
+  - Analyise customer feedback, if possible analyse the tickets of customer support to get an idea of issues that come in and turn around time of the issues
 - Cusomer Churn vs Dollar Churn:
   - This metric should be analysed, invest sales and marketing resources into the type of client that brings in good amount of money, than 
 - The product should be repeatable, scalable and profitable 
