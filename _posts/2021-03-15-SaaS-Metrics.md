@@ -18,6 +18,8 @@ A company can become successfull only if many factors align like people, culture
 | CRO   - Conversion rate optimization                        |
 | ARR   - Annual Recurring Revenue                            |
 | CAC   - Cusomter acquisition cost                           |
+| VAR   - Value added reseller                                |
+| VSB   - Very small business                                 |
 {:.table-striped}
 
 # Some Formulae
@@ -38,10 +40,19 @@ A company can become successfull only if many factors align like people, culture
 All the below points are analysed over the period of 20 years, designed as a guess or method to make a conclusive statement about the company's health. So, there are always very niche market that won't fit in this. But, this should fit for the most case. Some cases that are below won't work for seed stage startups, but it's good to make these comparisions in a timeseries graph than making these calculations from a single point of time to see the trajectory more clearly.
 
 - LTV:CAC = 3:1, Because if the LTV is as nearly as CAC(1:1) then it's a clear case of burning out or a slow exit if it's 2:1 and if the ratio is 5:1, then there is an oppurtunity to invest more in CAC as the company might loose out potential customers if not done.
+- LTV > 3 X CAC 
+- Months to recover the spent CAC < 12-18 months(Important for Capital Efficiency)
+- With the LTV:CAC draw a comparison between the VAR and VSB segment, which ever has a better ratio invest sales force towards that
 - Churn rate per month should be less than 20%
 - Customer Success:
   - Negative Churn = Revenue from existing customers > Revenue lost from churning customers
   - Analyise customer feedback, tickets related to them 
 - Cusomer Churn vs Dollar Churn:
   - This metric should be analysed, invest sales and marketing resources into the type of client that brings in good amount of money, than 
+- The product should be repeatable, scalable and profitable 
+- Due diligence of the IP - Both legal and authenticity from tech perspective
+- Rule of the 40 - Growth rate and profit margin should be greater than 40% combined 
+
+Thanks for reading and please provide your comments below
+
 
